@@ -1,0 +1,49 @@
+﻿air_space_class,from_city,to_city,price,aircraft_model,engine_model
+B,Sydney,Melbourne,180.00,A330-203,CF6-80E142
+A,Sydney,Brisbane,180.00,A330-202,CF6-80E142
+B,Sydney,Canberra,120.00,B737-3B7,CFM56-3B1
+B,Canberra,Sydney,120.00,B737-476,CFM-56-3
+A,Sydney,Newcastle,90.00,A320-232,V2527-5A
+A,Newcastle,Sydney,90.00,A320-232,V2527-5A
+B,Sydney,Broken Hill,130.00,A320-232,V2527-5A
+B,Broken Hill,Sydney,130.00,A320-232,V2527-5A
+C,Melbourne,Sydney,180.00,A330-243,772B-60
+B ,Melbourne,Canberra,140.00,A320-232,V2527-5A
+B,Canberra,Melbourne,140.00,A320-232,V2527-5A
+A,Melbourne,Adelaide,175.00,B737-3B7,CFM56-3B1
+A,Melbourne,Hobart,130.00,A320-232,V2527-5A
+A,Melbourne,Bendigo,70.00,B717-200,UNKNOWN
+A,Bendigo,Melbourne,70.00,B717-200,UNKNOWN
+A,Melbourne,Launceston,100.00,B737-3B7,CFM56-3B1
+C,Adelaide,Melbourne,175.00,B737-3B7,CFM56-3B1
+C,Adelaide,Broken Hill,100.00,A320-232,V2527-5A
+C,Broken Hill,Adelaide,100.00,A320-232,V2527-5A
+D,Adelaide,Perth,200.00,A330-203,CF6-80E142
+D,Adelaide,Darwin,230.00,A330-203,CF6-80E142
+D,Darwin,Adelaide,230.00,A330-203,CF6-80E142
+E,Darwin,Alice Springs,120.00,B737-476,CFM-56-3
+E,Alice Springs,Darwin,120.00,B737-476,CFM-56-3
+D,Perth,Adelaide,220.00,A330-203,CF6-80E142
+C,Perth,Albany,100.00,A320-232,V2527-5A
+C,Perth,Kalgoorlie,80.00,A320-232,V2527-5A
+C,Perth,Broome,90.00,A320-232,V2527-5A
+B,Albany,Perth,100.00,A320-232,V2527-5A
+C,Kalgoorlie,Perth,80.00,A320-232,V2527-5A
+B,Broome,Perth,90.00,B737-476,CFM-56-3
+B,Launceston,Melbourne,100.00,B737-476,CFM-56-3
+B,Launceston,Hobart,80.00,A320-232,V2527-5A
+A,Hobart,Melbourne,130.00,B737-3B7,CFM56-3B1
+A,Hobart,Launceston,80.00,A320-232,V2527-5A
+B,Brisbane,Sydney,170.00,A330-203,CF6-80E142
+A,Brisbane,Mt Isa,170.00,B737-3B7,CFM56-3B1
+A,Brisbane,Rockhampton,180.00,B737-3B7,CFM56-3B1
+A,Brisbane,Cairns,230.00,A330-203,CF6-80E142
+A,Brisbane,Darwin,240.00,A330-203,CF6-80E142
+A,Mt Isa,Brisbane,170.00,A330-202,CF6-80E142
+B,Rockhampton,Brisbane,180.00,A330-202,CF6-80E142
+A,Cairns,Brisbane,230.00,A330-203,CF6-80E142
+A,Darwin,Brisbane,240.00,A330-203,CF6-80E142
+B,Mt Isa,Darwin,120.00,B737-3B7,CFM56-3B1
+B,Darwin,Mt Isa,120.00,B737-3B7,CFM56-3B1
+B,Adelaide,Pt Augusta,50.00,B717-200,UNKNOWN
+C,Pt Augusta,Adelaide,50.00,B717-200,UNKNOWN
